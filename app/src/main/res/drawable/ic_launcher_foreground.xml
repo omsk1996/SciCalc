@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- calculator body -->
+    <path android:fillColor="#FFF5A623"
+        android:pathData="M38,30h32a4,4 0,0 1,4 4v40a4,4 0,0 1,-4 4h-32a4,4 0,0 1,-4 -4v-40a4,4 0,0 1,4 -4z" />
+    <!-- screen -->
+    <path android:fillColor="#FF1E2A38" android:pathData="M40,36h28v10h-28z" />
+    <!-- keys -->
+    <path android:fillColor="#FF1E2A38"
+        android:pathData="M40,51h7v6h-7zM50.5,51h7v6h-7zM61,51h7v6h-7zM40,60h7v6h-7zM50.5,60h7v6h-7zM61,60h7v6h-7zM40,69h7v4h-7zM50.5,69h7v4h-7zM61,69h7v4h-7z" />
+</vector>

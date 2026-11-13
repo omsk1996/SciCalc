@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.SciCalc" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#FF101418</item>
+        <item name="android:statusBarColor">#FF101418</item>
+        <item name="android:navigationBarColor">#FF101418</item>
+        <item name="android:windowSplashScreenBackground">#FF101418</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">#FF1E2A38</item>
+    </style>
+</resources>
